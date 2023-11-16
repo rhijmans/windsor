@@ -1,4 +1,5 @@
 
 x4 <- function(x) {
-	x * x * x * x
+	out <- x * x * x * x
+	return(out)
 }
