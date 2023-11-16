@@ -1,4 +1,4 @@
 
-test <- function(x) {
-	x * x
+x4 <- function(x) {
+	x * x * x * x
 }
